@@ -23,7 +23,7 @@
         "@kubernetes/client-node": "^0.9.2",
         "chalk": "^2.4.2",
         "commander": "^2.20.0",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "ip": "^1.1.5",
         "request": "^2.88.0",
         "request-promise-native": "^1.0.7"
